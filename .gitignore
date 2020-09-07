@@ -1,3 +1,9 @@
+# Output dir for comiled classes
+./out 
+
+# IDE files
+.idea
+
 # Compiled class file
 *.class
 
